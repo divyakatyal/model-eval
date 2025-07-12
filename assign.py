@@ -95,3 +95,5 @@ results = {
 df = pd.DataFrame(results)
 print("\nPerformance Comparison:\n")
 print(df.round(3))
+
+print("I have selected GridSearchCV because it is the most accurate")
